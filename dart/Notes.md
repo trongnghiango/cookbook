@@ -3,6 +3,8 @@
 
 
 ### Kieu suy luan: ...
+-> bang cach su dung tu khoa var tai thoi diem bien dich 
+va bang cach su dung tu khoa dynamic tai thoi gian chay
 
 ### Kieu An toan Type Safe? ...
 
