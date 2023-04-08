@@ -7,5 +7,6 @@ flutter/*/macos
 flutter/*/windows
 flutter/*/web
 
+JS/node_modules
 
 
